@@ -5,5 +5,5 @@
 [submodule "stanli"]
 	path = stanli
 	url = https://github.com/seantalts/stanli
-	branch = v0.11.1
+	branch = v0.12.0
 	subdir = r
